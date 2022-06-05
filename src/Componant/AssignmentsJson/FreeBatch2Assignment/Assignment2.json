@@ -1,0 +1,62 @@
+[
+    {
+        "img": "https://i.ibb.co/mRN2HWx/Ashpia-Jannat-Bithi.jpg",
+        "name": "Ashpia Jannat Bithi",
+        "mark": "60",
+        "feetBack": "ভালো হইছে"
+    },
+    {
+        "img": "https://i.ibb.co/3dPDCYF/Abu-Amer-Md-Nadim.jpg",
+        "name": "Abu Amer Md Nadim",
+        "mark": "60",
+        "feetBack": "ভালো হইছে"
+    },
+    {
+        "img": "https://i.ibb.co/Q8SXXqs/Afridi-Hossain.jpg",
+        "name": "Afridi Hossain",
+        "mark": "60",
+        "feetBack": "ভালো হইছে"
+    },
+    {
+        "img": "https://listec-coders.netlify.app/static/media/vector.8741b3f048cb8ecf4838.png",
+        "name": "Md. Ershadul Haque",
+        "mark": "60",
+        "feetBack": "ভালো হইছে"
+    },
+    {
+        "img": "https://i.ibb.co/my7xKjw/Surovi-Akter.jpg",
+        "name": "Surovi Akter",
+        "mark": "55",
+        "feetBack": "Ul,li tag সবগুলা অ্যাংকর ট্যাগ হইয়া আছে।"
+    },
+    {
+        "img": "https://i.ibb.co/5RpycSM/Md-Habibur-Rahman.jpg",
+        "name": "Md Habibur Rahman",
+        "mark": "55",
+        "feetBack": "Ul,li tag সবগুলা অ্যাংকর ট্যাগ হইয়া আছে।"
+    },
+    {
+        "img": "https://listec-coders.netlify.app/static/media/vector.8741b3f048cb8ecf4838.png",
+        "name": "Redowan Nowshad ( AZAN )",
+        "mark": "58",
+        "feetBack": "Ul,li tag সবগুলা অ্যাংকর ট্যাগ হইয়া আছে।"
+    },
+    {
+        "img": "https://i.ibb.co/Z2PCsfT/Jannatul-Irin.jpg",
+        "name": "Jannatul Irin",
+        "mark": "50",
+        "feetBack": "marquee tag কাজ করে না।"
+    },
+    {
+        "img": "https://i.ibb.co/chYjwSr/Fahmida-Yeasmin.jpg",
+        "name": "Fahmida Yeasmin",
+        "mark": "50",
+        "feetBack": "Ul,li tag নাই।"
+    },
+    {
+        "img": "https://i.ibb.co/ykgmnh5/MDMahabul-Alam.jpg",
+        "name": "MD Mahabul Alam",
+        "mark": "45",
+        "feetBack": "Contact, More লিঙ্ক ঠিক মত কাজ করে না, Style use করা হইছে।"
+    }
+]
